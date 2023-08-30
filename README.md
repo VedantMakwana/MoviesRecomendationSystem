@@ -35,6 +35,8 @@ We calculate the cosine similarity between the feature vectors of movies to quan
 
 The recommendation system is deployed using the Streamlit Python library, providing an interactive web interface for users to input their movie preferences and receive recommendations. The user interface is intuitive and easy to navigate.
 
+[Click here to view web page ](https://movierecomender.streamlit.app/)
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
